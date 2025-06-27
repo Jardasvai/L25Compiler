@@ -1,0 +1,10 @@
+release/main.o
+release/MainWindow.o
+release/highlighter.o
+release/Compiler.o
+release/Interpreter.o
+release/Parser.o
+release/Scanner.o
+release/table.o
+release/moc_MainWindow.o
+release/moc_highlighter.o

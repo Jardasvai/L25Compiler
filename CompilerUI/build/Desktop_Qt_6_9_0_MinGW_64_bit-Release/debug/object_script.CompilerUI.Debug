@@ -1,0 +1,10 @@
+debug/main.o
+debug/MainWindow.o
+debug/highlighter.o
+debug/Compiler.o
+debug/Interpreter.o
+debug/Parser.o
+debug/Scanner.o
+debug/table.o
+debug/moc_MainWindow.o
+debug/moc_highlighter.o
